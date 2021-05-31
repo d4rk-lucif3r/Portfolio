@@ -1,5 +1,6 @@
 # Heart Attack Analysis & Prediction
-- [Kaggle](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+- [Notebook Kaggle](https://www.kaggle.com/d4rklucif3r/heart-attack-analysis-prediction-eda-85-07)
+- [Dataset Kaggle](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 ## About the dataset
 Age : Age of the patient
 
