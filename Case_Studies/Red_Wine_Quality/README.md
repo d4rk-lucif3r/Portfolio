@@ -1,5 +1,6 @@
 # Red Wine Quality
-- [Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+- [Notebook Kaggle](https://www.kaggle.com/d4rklucif3r/red-wine-quality)
+- [Dataset Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 ## About the Dataset
 ### Context
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
