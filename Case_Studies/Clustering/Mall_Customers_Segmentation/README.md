@@ -1,5 +1,5 @@
 # Mall Customers Segmentation
-- [Notebook's Kaggle]()
+- [Notebook's Kaggle](https://www.kaggle.com/d4rklucif3r/mall-customer-segmentation-kmeans-and-heirarchical)
 - [Dataset's Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 # About the Dataset
 ## Context
