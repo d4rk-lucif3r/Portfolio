@@ -132,4 +132,4 @@ dmypy.json
 *.txt
 
 #Template
-template.ipynb
+/secret/*
