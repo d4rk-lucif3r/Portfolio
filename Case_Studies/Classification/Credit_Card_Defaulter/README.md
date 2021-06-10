@@ -1,4 +1,4 @@
-# Mall Customers Segmentation
+# Credit Card Defaulter
 - [Notebook's Kaggle](https://www.kaggle.com/d4rklucif3r/credit-card-defaulter-eda-100-accuracy)
 - [Dataset's Kaggle](https://www.kaggle.com/d4rklucif3r/defaulter)
 # About the Dataset
