@@ -7,6 +7,7 @@
 - [Certificates](https://github.com/d4rk-lucif3r/ML-Portfolio/tree/main/Certificates)
 - [Case Studies](https://github.com/d4rk-lucif3r/ML-Portfolio/tree/main/Case_Studies)
 - [Competetions](https://github.com/d4rk-lucif3r/ML-Portfolio/tree/main/Kaggle%20Competetions)
+- [Recommender Systems](https://github.com/d4rk-lucif3r/Portfolio/tree/main/Recommender%20Systems/)
 
 ## References
 
