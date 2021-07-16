@@ -1,4 +1,4 @@
-# My Machine Laerning Portfolio
+# My Portfolio
 
 - This Repository will have several Case Studies, Projects and Blogs which I will be able to do while pursuing my dream of becoming a **Kaggle Grandmaster**.
 
